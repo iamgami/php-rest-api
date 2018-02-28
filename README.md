@@ -2,7 +2,7 @@
 Rest API class with MySQLi based CRUD operations and User Module as demo.
 
 # Developed By : 
-Bharat Parmar
+Vinod Kumar
 
 # Version : 
 1.0
@@ -10,7 +10,7 @@ Bharat Parmar
 # File Structure :
 1) config.php  : Configuration File 
 
-2) bharatcode.sql : Database File.
+2) vinodcode.sql : Database File.
 
 3) class/Main.class.php : Main class file which contains many usefull methods for database operations, mail sending, validation.
 
@@ -40,7 +40,7 @@ Postman-Token: 94ce58e8-5db7-4df4-19e5-457b29586d5f
 
 Request : 
 
-POST /bharat/api/v1/register HTTP/1.1
+POST /vinod/api/v1/register HTTP/1.1
 Host: localhost
 Cache-Control: no-cache
 Postman-Token: ec8d2516-818d-4f3d-a417-9903575ccf81
