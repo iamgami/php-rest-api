@@ -1,0 +1,830 @@
+[21-Feb-2018 09:55:59 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[21-Feb-2018 09:56:07 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[21-Feb-2018 09:56:08 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[21-Feb-2018 09:56:09 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[21-Feb-2018 09:56:10 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[21-Feb-2018 09:57:25 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[21-Feb-2018 09:57:26 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[21-Feb-2018 09:57:27 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[21-Feb-2018 09:57:28 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[21-Feb-2018 09:57:29 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[21-Feb-2018 09:57:30 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[21-Feb-2018 09:57:43 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[21-Feb-2018 10:00:03 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[21-Feb-2018 10:00:05 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[21-Feb-2018 10:00:06 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[21-Feb-2018 10:00:07 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[21-Feb-2018 10:00:08 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[21-Feb-2018 10:00:16 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[21-Feb-2018 10:01:10 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[22-Feb-2018 05:16:35 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[22-Feb-2018 09:17:26 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED) in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 133
+[22-Feb-2018 09:17:47 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED) in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 133
+[22-Feb-2018 09:17:50 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED) in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 133
+[22-Feb-2018 09:18:09 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED) in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 133
+[22-Feb-2018 09:18:13 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED) in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 133
+[22-Feb-2018 09:18:16 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED) in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 133
+[22-Feb-2018 09:44:59 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 136
+[22-Feb-2018 09:45:01 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 136
+[22-Feb-2018 09:51:02 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 136
+[22-Feb-2018 09:51:05 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 136
+[22-Feb-2018 09:51:28 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 136
+[22-Feb-2018 09:51:31 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 136
+[22-Feb-2018 09:53:48 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 140
+[22-Feb-2018 09:53:51 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 140
+[22-Feb-2018 09:59:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ultimate/public_html/larkyo/api2/v1/api.php:182) in /home/ultimate/public_html/larkyo/api2/v1/Rest.inc.php on line 119
+[22-Feb-2018 09:59:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ultimate/public_html/larkyo/api2/v1/api.php:182) in /home/ultimate/public_html/larkyo/api2/v1/Rest.inc.php on line 120
+[22-Feb-2018 10:05:59 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 148
+[22-Feb-2018 12:04:45 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 150
+[22-Feb-2018 12:15:27 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 157
+[22-Feb-2018 12:18:58 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 159
+[22-Feb-2018 12:19:34 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 159
+[22-Feb-2018 12:32:04 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 159
+[22-Feb-2018 12:49:11 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 159
+[22-Feb-2018 13:12:25 UTC] PHP Notice:  Undefined variable: eventsData in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 301
+[22-Feb-2018 13:12:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ultimate/public_html/larkyo/api2/v1/api.php:301) in /home/ultimate/public_html/larkyo/api2/v1/Rest.inc.php on line 119
+[22-Feb-2018 13:12:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ultimate/public_html/larkyo/api2/v1/api.php:301) in /home/ultimate/public_html/larkyo/api2/v1/Rest.inc.php on line 120
+[22-Feb-2018 13:13:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ultimate/public_html/larkyo/api2/v1/api.php:300) in /home/ultimate/public_html/larkyo/api2/v1/Rest.inc.php on line 119
+[22-Feb-2018 13:13:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ultimate/public_html/larkyo/api2/v1/api.php:300) in /home/ultimate/public_html/larkyo/api2/v1/Rest.inc.php on line 120
+[22-Feb-2018 13:21:25 UTC] PHP Parse error:  syntax error, unexpected '''' (T_CONSTANT_ENCAPSED_STRING) in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 312
+[22-Feb-2018 13:21:58 UTC] PHP Parse error:  syntax error, unexpected '''' (T_CONSTANT_ENCAPSED_STRING) in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 312
+[22-Feb-2018 13:22:47 UTC] PHP Parse error:  syntax error, unexpected '''' (T_CONSTANT_ENCAPSED_STRING) in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 312
+[23-Feb-2018 10:47:07 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 309
+[23-Feb-2018 10:47:07 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 309
+[23-Feb-2018 10:47:07 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 310
+[23-Feb-2018 10:47:07 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 10:47:07 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 312
+[23-Feb-2018 10:47:07 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 313
+[23-Feb-2018 10:47:07 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 314
+[23-Feb-2018 10:47:07 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 315
+[23-Feb-2018 10:47:07 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 316
+[23-Feb-2018 10:47:07 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 309
+[23-Feb-2018 10:47:07 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 309
+[23-Feb-2018 10:47:07 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 310
+[23-Feb-2018 10:47:07 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 10:47:07 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 312
+[23-Feb-2018 10:47:07 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 313
+[23-Feb-2018 10:47:07 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 314
+[23-Feb-2018 10:47:07 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 315
+[23-Feb-2018 10:47:07 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 316
+[23-Feb-2018 10:47:07 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 309
+[23-Feb-2018 10:47:07 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 309
+[23-Feb-2018 10:47:07 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 310
+[23-Feb-2018 10:47:07 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 10:47:07 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 312
+[23-Feb-2018 10:47:07 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 313
+[23-Feb-2018 10:47:07 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 314
+[23-Feb-2018 10:47:07 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 315
+[23-Feb-2018 10:47:07 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 316
+[23-Feb-2018 10:47:07 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 309
+[23-Feb-2018 10:47:07 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 309
+[23-Feb-2018 10:47:07 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 310
+[23-Feb-2018 10:47:07 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 10:47:07 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 312
+[23-Feb-2018 10:47:07 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 313
+[23-Feb-2018 10:47:07 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 314
+[23-Feb-2018 10:47:07 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 315
+[23-Feb-2018 10:47:07 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 316
+[23-Feb-2018 10:47:07 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 309
+[23-Feb-2018 10:47:07 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 309
+[23-Feb-2018 10:47:07 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 310
+[23-Feb-2018 10:47:07 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 10:47:07 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 312
+[23-Feb-2018 10:47:07 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 313
+[23-Feb-2018 10:47:07 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 314
+[23-Feb-2018 10:47:07 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 315
+[23-Feb-2018 10:47:07 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 316
+[23-Feb-2018 10:47:07 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 309
+[23-Feb-2018 10:47:07 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 309
+[23-Feb-2018 10:47:07 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 310
+[23-Feb-2018 10:47:07 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 10:47:07 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 312
+[23-Feb-2018 10:47:07 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 313
+[23-Feb-2018 10:47:07 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 314
+[23-Feb-2018 10:47:07 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 315
+[23-Feb-2018 10:47:07 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 316
+[23-Feb-2018 10:47:07 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 309
+[23-Feb-2018 10:47:07 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 309
+[23-Feb-2018 10:47:07 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 310
+[23-Feb-2018 10:47:07 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 10:47:07 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 312
+[23-Feb-2018 10:47:07 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 313
+[23-Feb-2018 10:47:07 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 314
+[23-Feb-2018 10:47:07 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 315
+[23-Feb-2018 10:47:07 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 316
+[23-Feb-2018 10:47:07 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 309
+[23-Feb-2018 10:47:07 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 309
+[23-Feb-2018 10:47:07 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 310
+[23-Feb-2018 10:47:07 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 10:47:07 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 312
+[23-Feb-2018 10:47:07 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 313
+[23-Feb-2018 10:47:07 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 314
+[23-Feb-2018 10:47:07 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 315
+[23-Feb-2018 10:47:07 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 316
+[23-Feb-2018 10:47:54 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 309
+[23-Feb-2018 10:47:54 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 309
+[23-Feb-2018 10:47:54 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 310
+[23-Feb-2018 10:47:54 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 10:47:54 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 312
+[23-Feb-2018 10:47:54 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 313
+[23-Feb-2018 10:47:54 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 314
+[23-Feb-2018 10:47:54 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 315
+[23-Feb-2018 10:47:54 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 316
+[23-Feb-2018 10:47:54 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 309
+[23-Feb-2018 10:47:54 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 309
+[23-Feb-2018 10:47:54 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 310
+[23-Feb-2018 10:47:54 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 10:47:54 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 312
+[23-Feb-2018 10:47:54 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 313
+[23-Feb-2018 10:47:54 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 314
+[23-Feb-2018 10:47:54 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 315
+[23-Feb-2018 10:47:54 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 316
+[23-Feb-2018 10:47:54 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 309
+[23-Feb-2018 10:47:54 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 309
+[23-Feb-2018 10:47:54 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 310
+[23-Feb-2018 10:47:54 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 10:47:54 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 312
+[23-Feb-2018 10:47:54 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 313
+[23-Feb-2018 10:47:54 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 314
+[23-Feb-2018 10:47:54 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 315
+[23-Feb-2018 10:47:54 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 316
+[23-Feb-2018 10:47:54 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 309
+[23-Feb-2018 10:47:54 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 309
+[23-Feb-2018 10:47:54 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 310
+[23-Feb-2018 10:47:54 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 10:47:54 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 312
+[23-Feb-2018 10:47:54 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 313
+[23-Feb-2018 10:47:54 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 314
+[23-Feb-2018 10:47:54 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 315
+[23-Feb-2018 10:47:54 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 316
+[23-Feb-2018 10:47:54 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 309
+[23-Feb-2018 10:47:54 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 309
+[23-Feb-2018 10:47:54 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 310
+[23-Feb-2018 10:47:54 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 10:47:54 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 312
+[23-Feb-2018 10:47:54 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 313
+[23-Feb-2018 10:47:54 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 314
+[23-Feb-2018 10:47:54 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 315
+[23-Feb-2018 10:47:54 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 316
+[23-Feb-2018 10:47:54 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 309
+[23-Feb-2018 10:47:54 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 309
+[23-Feb-2018 10:47:54 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 310
+[23-Feb-2018 10:47:54 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 10:47:54 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 312
+[23-Feb-2018 10:47:54 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 313
+[23-Feb-2018 10:47:54 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 314
+[23-Feb-2018 10:47:54 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 315
+[23-Feb-2018 10:47:54 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 316
+[23-Feb-2018 10:47:54 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 309
+[23-Feb-2018 10:47:54 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 309
+[23-Feb-2018 10:47:54 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 310
+[23-Feb-2018 10:47:54 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 10:47:54 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 312
+[23-Feb-2018 10:47:54 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 313
+[23-Feb-2018 10:47:54 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 314
+[23-Feb-2018 10:47:54 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 315
+[23-Feb-2018 10:47:54 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 316
+[23-Feb-2018 10:47:54 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 309
+[23-Feb-2018 10:47:54 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 309
+[23-Feb-2018 10:47:54 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 310
+[23-Feb-2018 10:47:54 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 10:47:54 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 312
+[23-Feb-2018 10:47:54 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 313
+[23-Feb-2018 10:47:54 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 314
+[23-Feb-2018 10:47:54 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 315
+[23-Feb-2018 10:47:54 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 316
+[23-Feb-2018 10:47:56 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 309
+[23-Feb-2018 10:47:56 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 309
+[23-Feb-2018 10:47:56 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 310
+[23-Feb-2018 10:47:56 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 10:47:56 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 312
+[23-Feb-2018 10:47:56 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 313
+[23-Feb-2018 10:47:56 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 314
+[23-Feb-2018 10:47:56 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 315
+[23-Feb-2018 10:47:56 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 316
+[23-Feb-2018 10:47:56 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 309
+[23-Feb-2018 10:47:56 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 309
+[23-Feb-2018 10:47:56 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 310
+[23-Feb-2018 10:47:56 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 10:47:56 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 312
+[23-Feb-2018 10:47:56 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 313
+[23-Feb-2018 10:47:56 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 314
+[23-Feb-2018 10:47:56 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 315
+[23-Feb-2018 10:47:56 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 316
+[23-Feb-2018 10:47:56 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 309
+[23-Feb-2018 10:47:56 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 309
+[23-Feb-2018 10:47:56 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 310
+[23-Feb-2018 10:47:56 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 10:47:56 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 312
+[23-Feb-2018 10:47:56 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 313
+[23-Feb-2018 10:47:56 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 314
+[23-Feb-2018 10:47:56 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 315
+[23-Feb-2018 10:47:56 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 316
+[23-Feb-2018 10:47:56 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 309
+[23-Feb-2018 10:47:56 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 309
+[23-Feb-2018 10:47:56 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 310
+[23-Feb-2018 10:47:56 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 10:47:56 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 312
+[23-Feb-2018 10:47:56 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 313
+[23-Feb-2018 10:47:56 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 314
+[23-Feb-2018 10:47:56 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 315
+[23-Feb-2018 10:47:56 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 316
+[23-Feb-2018 10:47:56 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 309
+[23-Feb-2018 10:47:56 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 309
+[23-Feb-2018 10:47:56 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 310
+[23-Feb-2018 10:47:56 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 10:47:56 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 312
+[23-Feb-2018 10:47:56 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 313
+[23-Feb-2018 10:47:56 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 314
+[23-Feb-2018 10:47:56 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 315
+[23-Feb-2018 10:47:56 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 316
+[23-Feb-2018 10:47:56 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 309
+[23-Feb-2018 10:47:56 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 309
+[23-Feb-2018 10:47:56 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 310
+[23-Feb-2018 10:47:56 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 10:47:56 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 312
+[23-Feb-2018 10:47:56 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 313
+[23-Feb-2018 10:47:56 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 314
+[23-Feb-2018 10:47:56 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 315
+[23-Feb-2018 10:47:56 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 316
+[23-Feb-2018 10:47:56 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 309
+[23-Feb-2018 10:47:56 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 309
+[23-Feb-2018 10:47:56 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 310
+[23-Feb-2018 10:47:56 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 10:47:56 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 312
+[23-Feb-2018 10:47:56 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 313
+[23-Feb-2018 10:47:56 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 314
+[23-Feb-2018 10:47:56 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 315
+[23-Feb-2018 10:47:56 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 316
+[23-Feb-2018 10:47:56 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 309
+[23-Feb-2018 10:47:56 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 309
+[23-Feb-2018 10:47:56 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 310
+[23-Feb-2018 10:47:56 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 10:47:56 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 312
+[23-Feb-2018 10:47:56 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 313
+[23-Feb-2018 10:47:56 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 314
+[23-Feb-2018 10:47:56 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 315
+[23-Feb-2018 10:47:56 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 316
+[23-Feb-2018 10:49:30 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 309
+[23-Feb-2018 10:49:30 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 309
+[23-Feb-2018 10:49:30 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 310
+[23-Feb-2018 10:49:30 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 10:49:30 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 312
+[23-Feb-2018 10:49:30 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 313
+[23-Feb-2018 10:49:30 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 314
+[23-Feb-2018 10:49:30 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 315
+[23-Feb-2018 10:49:30 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 309
+[23-Feb-2018 10:49:30 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 309
+[23-Feb-2018 10:49:30 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 310
+[23-Feb-2018 10:49:30 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 10:49:30 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 312
+[23-Feb-2018 10:49:30 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 313
+[23-Feb-2018 10:49:30 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 314
+[23-Feb-2018 10:49:30 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 315
+[23-Feb-2018 10:49:30 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 309
+[23-Feb-2018 10:49:30 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 309
+[23-Feb-2018 10:49:30 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 310
+[23-Feb-2018 10:49:30 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 10:49:30 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 312
+[23-Feb-2018 10:49:30 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 313
+[23-Feb-2018 10:49:30 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 314
+[23-Feb-2018 10:49:30 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 315
+[23-Feb-2018 10:49:30 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 309
+[23-Feb-2018 10:49:30 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 309
+[23-Feb-2018 10:49:30 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 310
+[23-Feb-2018 10:49:30 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 10:49:30 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 312
+[23-Feb-2018 10:49:30 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 313
+[23-Feb-2018 10:49:30 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 314
+[23-Feb-2018 10:49:30 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 315
+[23-Feb-2018 10:49:30 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 309
+[23-Feb-2018 10:49:30 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 309
+[23-Feb-2018 10:49:30 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 310
+[23-Feb-2018 10:49:30 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 10:49:30 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 312
+[23-Feb-2018 10:49:30 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 313
+[23-Feb-2018 10:49:30 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 314
+[23-Feb-2018 10:49:30 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 315
+[23-Feb-2018 10:49:30 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 309
+[23-Feb-2018 10:49:30 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 309
+[23-Feb-2018 10:49:30 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 310
+[23-Feb-2018 10:49:30 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 10:49:30 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 312
+[23-Feb-2018 10:49:30 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 313
+[23-Feb-2018 10:49:30 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 314
+[23-Feb-2018 10:49:30 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 315
+[23-Feb-2018 10:49:30 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 309
+[23-Feb-2018 10:49:30 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 309
+[23-Feb-2018 10:49:30 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 310
+[23-Feb-2018 10:49:30 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 10:49:30 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 312
+[23-Feb-2018 10:49:30 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 313
+[23-Feb-2018 10:49:30 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 314
+[23-Feb-2018 10:49:30 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 315
+[23-Feb-2018 10:49:30 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 309
+[23-Feb-2018 10:49:30 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 309
+[23-Feb-2018 10:49:30 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 310
+[23-Feb-2018 10:49:30 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 10:49:30 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 312
+[23-Feb-2018 10:49:30 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 313
+[23-Feb-2018 10:49:30 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 314
+[23-Feb-2018 10:49:30 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 315
+[23-Feb-2018 10:51:59 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 309
+[23-Feb-2018 10:51:59 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 309
+[23-Feb-2018 10:51:59 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 310
+[23-Feb-2018 10:51:59 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 10:51:59 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 312
+[23-Feb-2018 10:51:59 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 313
+[23-Feb-2018 10:51:59 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 314
+[23-Feb-2018 10:51:59 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 315
+[23-Feb-2018 10:51:59 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 309
+[23-Feb-2018 10:51:59 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 309
+[23-Feb-2018 10:51:59 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 310
+[23-Feb-2018 10:51:59 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 10:51:59 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 312
+[23-Feb-2018 10:51:59 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 313
+[23-Feb-2018 10:51:59 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 314
+[23-Feb-2018 10:51:59 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 315
+[23-Feb-2018 10:51:59 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 309
+[23-Feb-2018 10:51:59 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 309
+[23-Feb-2018 10:51:59 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 310
+[23-Feb-2018 10:51:59 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 10:51:59 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 312
+[23-Feb-2018 10:51:59 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 313
+[23-Feb-2018 10:51:59 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 314
+[23-Feb-2018 10:51:59 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 315
+[23-Feb-2018 10:51:59 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 309
+[23-Feb-2018 10:51:59 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 309
+[23-Feb-2018 10:51:59 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 310
+[23-Feb-2018 10:51:59 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 10:51:59 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 312
+[23-Feb-2018 10:51:59 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 313
+[23-Feb-2018 10:51:59 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 314
+[23-Feb-2018 10:51:59 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 315
+[23-Feb-2018 10:51:59 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 309
+[23-Feb-2018 10:51:59 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 309
+[23-Feb-2018 10:51:59 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 310
+[23-Feb-2018 10:51:59 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 10:51:59 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 312
+[23-Feb-2018 10:51:59 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 313
+[23-Feb-2018 10:51:59 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 314
+[23-Feb-2018 10:51:59 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 315
+[23-Feb-2018 10:51:59 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 309
+[23-Feb-2018 10:51:59 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 309
+[23-Feb-2018 10:51:59 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 310
+[23-Feb-2018 10:51:59 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 10:51:59 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 312
+[23-Feb-2018 10:51:59 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 313
+[23-Feb-2018 10:51:59 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 314
+[23-Feb-2018 10:51:59 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 315
+[23-Feb-2018 10:51:59 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 309
+[23-Feb-2018 10:51:59 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 309
+[23-Feb-2018 10:51:59 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 310
+[23-Feb-2018 10:51:59 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 10:51:59 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 312
+[23-Feb-2018 10:51:59 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 313
+[23-Feb-2018 10:51:59 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 314
+[23-Feb-2018 10:51:59 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 315
+[23-Feb-2018 10:51:59 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 309
+[23-Feb-2018 10:51:59 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 309
+[23-Feb-2018 10:51:59 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 310
+[23-Feb-2018 10:51:59 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 10:51:59 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 312
+[23-Feb-2018 10:51:59 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 313
+[23-Feb-2018 10:51:59 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 314
+[23-Feb-2018 10:51:59 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 315
+[23-Feb-2018 10:52:01 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 10:52:01 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 10:52:01 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 10:52:01 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 10:52:01 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 10:52:01 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 10:52:01 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 10:52:01 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 10:52:05 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 10:52:05 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 10:52:05 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 10:52:05 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 10:52:05 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 10:52:05 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 10:52:05 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 10:52:05 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 10:52:24 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 10:52:24 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 10:52:24 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 10:52:24 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 10:52:24 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 10:52:24 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 10:52:24 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 10:52:24 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 10:55:01 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 10:55:01 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 10:55:01 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 10:55:01 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 10:55:01 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 10:55:01 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 10:55:01 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 10:55:01 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 10:56:17 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 10:56:17 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 10:56:17 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 10:56:17 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 10:56:17 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 10:56:17 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 10:56:17 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 10:56:17 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 11:01:01 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 11:01:01 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 11:01:01 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 11:01:01 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 11:01:01 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 11:01:01 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 11:01:01 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 11:01:01 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 11:01:56 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 11:01:56 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 11:01:56 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 11:01:56 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 11:01:56 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 11:01:56 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 11:01:56 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 11:01:56 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 311
+[23-Feb-2018 11:10:18 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 363
+[23-Feb-2018 11:10:18 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 363
+[23-Feb-2018 11:10:18 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 363
+[23-Feb-2018 11:10:18 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 363
+[23-Feb-2018 11:10:18 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 363
+[23-Feb-2018 11:10:18 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 363
+[23-Feb-2018 11:10:18 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 363
+[23-Feb-2018 11:10:18 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 363
+[23-Feb-2018 11:13:35 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 357
+[23-Feb-2018 15:01:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 363
+[23-Feb-2018 15:02:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 363
+[23-Feb-2018 15:02:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 363
+[23-Feb-2018 15:03:37 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 365
+[23-Feb-2018 15:03:37 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 365
+[23-Feb-2018 15:03:37 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 365
+[23-Feb-2018 15:03:37 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 365
+[23-Feb-2018 15:03:37 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 365
+[23-Feb-2018 15:03:37 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 365
+[23-Feb-2018 15:03:37 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 365
+[23-Feb-2018 15:03:37 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 365
+[23-Feb-2018 15:03:37 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 365
+[23-Feb-2018 15:03:37 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 365
+[23-Feb-2018 15:03:37 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 365
+[23-Feb-2018 15:03:37 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 365
+[23-Feb-2018 15:04:05 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 365
+[23-Feb-2018 15:04:05 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 365
+[23-Feb-2018 15:04:05 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 365
+[23-Feb-2018 15:04:05 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 365
+[23-Feb-2018 15:04:05 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 365
+[23-Feb-2018 15:04:05 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 365
+[23-Feb-2018 15:04:05 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 365
+[23-Feb-2018 15:04:05 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 365
+[23-Feb-2018 15:04:05 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 365
+[23-Feb-2018 15:04:05 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 365
+[23-Feb-2018 15:04:05 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 365
+[23-Feb-2018 15:04:05 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 365
+[23-Feb-2018 15:05:26 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:26 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:26 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:26 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:26 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:26 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:26 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:26 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:26 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:26 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:26 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:26 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:29 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:29 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:29 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:29 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:29 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:29 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:29 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:29 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:29 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:29 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:29 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:29 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:32 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:32 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:32 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:32 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:32 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:32 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:32 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:32 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:32 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:32 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:32 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:32 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:34 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:34 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:34 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:34 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:34 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:34 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:34 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:34 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:34 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:34 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:34 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:34 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:36 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:36 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:36 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:36 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:36 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:36 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:36 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:36 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:36 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:36 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:36 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:36 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:36 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:36 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:36 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:36 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:36 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:36 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:36 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:36 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:36 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:36 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:36 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:36 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:36 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:36 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:36 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:36 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:36 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:36 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:36 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:36 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:36 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:36 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:36 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:36 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:36 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:36 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:36 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:36 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:36 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:36 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:36 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:36 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:36 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:36 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:36 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:36 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:36 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:36 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:36 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:36 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:36 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:36 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:36 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:36 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:36 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:36 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:36 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:36 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:36 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:36 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:36 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:36 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:36 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:36 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:36 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:36 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:36 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:36 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:36 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:36 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:38 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:38 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:38 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:38 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:38 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:38 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:38 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:38 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:38 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:38 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:38 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:05:38 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:15:10 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 372
+[23-Feb-2018 15:15:10 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 372
+[23-Feb-2018 15:15:10 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 372
+[23-Feb-2018 15:15:10 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 372
+[23-Feb-2018 15:15:10 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 372
+[23-Feb-2018 15:15:10 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 372
+[23-Feb-2018 15:15:10 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 372
+[23-Feb-2018 15:15:10 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 372
+[23-Feb-2018 15:15:10 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 372
+[23-Feb-2018 15:15:10 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 372
+[23-Feb-2018 15:15:10 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 372
+[23-Feb-2018 15:15:10 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 372
+[23-Feb-2018 15:15:12 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 372
+[23-Feb-2018 15:15:12 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 372
+[23-Feb-2018 15:15:12 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 372
+[23-Feb-2018 15:15:12 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 372
+[23-Feb-2018 15:15:12 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 372
+[23-Feb-2018 15:15:12 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 372
+[23-Feb-2018 15:15:12 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 372
+[23-Feb-2018 15:15:12 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 372
+[23-Feb-2018 15:15:12 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 372
+[23-Feb-2018 15:15:12 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 372
+[23-Feb-2018 15:15:12 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 372
+[23-Feb-2018 15:15:12 UTC] PHP Warning:  Attempt to assign property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 372
+[23-Feb-2018 15:21:47 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:21:47 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:21:47 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:21:47 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:21:47 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:21:47 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:21:47 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:21:47 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:21:47 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:21:47 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:21:47 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:21:47 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:21:49 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:21:49 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:21:49 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:21:49 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:21:49 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:21:49 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:21:49 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:21:49 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:21:49 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:21:49 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:21:49 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:21:49 UTC] PHP Notice:  Trying to get property of non-object in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:22:35 UTC] PHP Notice:  Array to string conversion in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 362
+[23-Feb-2018 15:41:00 UTC] PHP Notice:  Undefined index: category_id in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 374
+[23-Feb-2018 15:41:00 UTC] PHP Notice:  Undefined index: category_id in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 374
+[23-Feb-2018 15:41:00 UTC] PHP Notice:  Undefined index: category_id in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 374
+[23-Feb-2018 15:41:00 UTC] PHP Notice:  Undefined index: category_id in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 374
+[23-Feb-2018 15:41:00 UTC] PHP Notice:  Undefined index: category_id in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 374
+[23-Feb-2018 15:41:00 UTC] PHP Notice:  Undefined index: category_id in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 374
+[23-Feb-2018 15:41:00 UTC] PHP Notice:  Undefined index: category_id in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 374
+[23-Feb-2018 15:41:00 UTC] PHP Notice:  Undefined index: category_id in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 374
+[23-Feb-2018 15:41:00 UTC] PHP Notice:  Undefined index: category_id in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 374
+[23-Feb-2018 15:41:00 UTC] PHP Notice:  Undefined index: category_id in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 374
+[23-Feb-2018 15:41:00 UTC] PHP Notice:  Undefined index: category_id in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 374
+[23-Feb-2018 15:41:00 UTC] PHP Notice:  Undefined index: category_id in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 374
+[23-Feb-2018 15:41:02 UTC] PHP Notice:  Undefined index: category_id in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 374
+[23-Feb-2018 15:41:02 UTC] PHP Notice:  Undefined index: category_id in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 374
+[23-Feb-2018 15:41:02 UTC] PHP Notice:  Undefined index: category_id in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 374
+[23-Feb-2018 15:41:02 UTC] PHP Notice:  Undefined index: category_id in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 374
+[23-Feb-2018 15:41:02 UTC] PHP Notice:  Undefined index: category_id in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 374
+[23-Feb-2018 15:41:02 UTC] PHP Notice:  Undefined index: category_id in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 374
+[23-Feb-2018 15:41:02 UTC] PHP Notice:  Undefined index: category_id in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 374
+[23-Feb-2018 15:41:02 UTC] PHP Notice:  Undefined index: category_id in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 374
+[23-Feb-2018 15:41:02 UTC] PHP Notice:  Undefined index: category_id in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 374
+[23-Feb-2018 15:41:02 UTC] PHP Notice:  Undefined index: category_id in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 374
+[23-Feb-2018 15:41:02 UTC] PHP Notice:  Undefined index: category_id in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 374
+[23-Feb-2018 15:41:02 UTC] PHP Notice:  Undefined index: category_id in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 374
+[23-Feb-2018 15:41:05 UTC] PHP Notice:  Undefined index: category_id in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 374
+[23-Feb-2018 15:41:05 UTC] PHP Notice:  Undefined index: category_id in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 374
+[23-Feb-2018 15:41:05 UTC] PHP Notice:  Undefined index: category_id in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 374
+[23-Feb-2018 15:41:05 UTC] PHP Notice:  Undefined index: category_id in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 374
+[23-Feb-2018 15:41:05 UTC] PHP Notice:  Undefined index: category_id in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 374
+[23-Feb-2018 15:41:05 UTC] PHP Notice:  Undefined index: category_id in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 374
+[23-Feb-2018 15:41:05 UTC] PHP Notice:  Undefined index: category_id in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 374
+[23-Feb-2018 15:41:05 UTC] PHP Notice:  Undefined index: category_id in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 374
+[23-Feb-2018 15:41:05 UTC] PHP Notice:  Undefined index: category_id in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 374
+[23-Feb-2018 15:41:05 UTC] PHP Notice:  Undefined index: category_id in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 374
+[23-Feb-2018 15:41:05 UTC] PHP Notice:  Undefined index: category_id in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 374
+[23-Feb-2018 15:41:05 UTC] PHP Notice:  Undefined index: category_id in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 374
+[23-Feb-2018 15:41:52 UTC] PHP Notice:  Undefined index: category_id in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 372
+[23-Feb-2018 15:41:52 UTC] PHP Notice:  Undefined index: category_id in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 372
+[23-Feb-2018 15:41:52 UTC] PHP Notice:  Undefined index: category_id in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 372
+[23-Feb-2018 15:41:52 UTC] PHP Notice:  Undefined index: category_id in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 372
+[23-Feb-2018 15:41:52 UTC] PHP Notice:  Undefined index: category_id in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 372
+[23-Feb-2018 15:41:52 UTC] PHP Notice:  Undefined index: category_id in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 372
+[23-Feb-2018 15:41:52 UTC] PHP Notice:  Undefined index: category_id in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 372
+[23-Feb-2018 15:41:52 UTC] PHP Notice:  Undefined index: category_id in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 372
+[23-Feb-2018 15:41:52 UTC] PHP Notice:  Undefined index: category_id in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 372
+[23-Feb-2018 15:41:52 UTC] PHP Notice:  Undefined index: category_id in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 372
+[23-Feb-2018 15:41:52 UTC] PHP Notice:  Undefined index: category_id in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 372
+[23-Feb-2018 15:41:52 UTC] PHP Notice:  Undefined index: category_id in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 372
+[23-Feb-2018 15:41:54 UTC] PHP Notice:  Undefined index: category_id in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 372
+[23-Feb-2018 15:41:54 UTC] PHP Notice:  Undefined index: category_id in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 372
+[23-Feb-2018 15:41:54 UTC] PHP Notice:  Undefined index: category_id in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 372
+[23-Feb-2018 15:41:54 UTC] PHP Notice:  Undefined index: category_id in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 372
+[23-Feb-2018 15:41:54 UTC] PHP Notice:  Undefined index: category_id in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 372
+[23-Feb-2018 15:41:54 UTC] PHP Notice:  Undefined index: category_id in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 372
+[23-Feb-2018 15:41:54 UTC] PHP Notice:  Undefined index: category_id in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 372
+[23-Feb-2018 15:41:54 UTC] PHP Notice:  Undefined index: category_id in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 372
+[23-Feb-2018 15:41:54 UTC] PHP Notice:  Undefined index: category_id in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 372
+[23-Feb-2018 15:41:54 UTC] PHP Notice:  Undefined index: category_id in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 372
+[23-Feb-2018 15:41:54 UTC] PHP Notice:  Undefined index: category_id in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 372
+[23-Feb-2018 15:41:54 UTC] PHP Notice:  Undefined index: category_id in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 372
+[23-Feb-2018 15:44:06 UTC] PHP Notice:  Undefined index:  in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 379
+[23-Feb-2018 15:44:06 UTC] PHP Notice:  Undefined index:  in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 379
+[23-Feb-2018 15:44:06 UTC] PHP Notice:  Undefined index:  in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 379
+[23-Feb-2018 15:44:06 UTC] PHP Notice:  Undefined index:  in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 379
+[23-Feb-2018 15:44:06 UTC] PHP Notice:  Undefined index:  in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 379
+[23-Feb-2018 15:44:06 UTC] PHP Notice:  Undefined index:  in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 379
+[23-Feb-2018 15:44:06 UTC] PHP Notice:  Undefined index:  in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 379
+[23-Feb-2018 15:44:06 UTC] PHP Notice:  Undefined index:  in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 379
+[23-Feb-2018 15:44:06 UTC] PHP Notice:  Undefined index:  in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 379
+[23-Feb-2018 15:44:06 UTC] PHP Notice:  Undefined index:  in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 379
+[23-Feb-2018 15:44:06 UTC] PHP Notice:  Undefined index:  in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 379
+[23-Feb-2018 15:44:06 UTC] PHP Notice:  Undefined index:  in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 379
+[23-Feb-2018 15:44:27 UTC] PHP Notice:  Undefined index:  in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 376
+[23-Feb-2018 15:44:27 UTC] PHP Notice:  Undefined index:  in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 376
+[23-Feb-2018 15:44:27 UTC] PHP Notice:  Undefined index:  in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 376
+[23-Feb-2018 15:44:27 UTC] PHP Notice:  Undefined index:  in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 376
+[23-Feb-2018 15:44:27 UTC] PHP Notice:  Undefined index:  in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 376
+[23-Feb-2018 15:44:27 UTC] PHP Notice:  Undefined index:  in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 376
+[23-Feb-2018 15:44:27 UTC] PHP Notice:  Undefined index:  in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 376
+[23-Feb-2018 15:44:27 UTC] PHP Notice:  Undefined index:  in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 376
+[23-Feb-2018 15:44:27 UTC] PHP Notice:  Undefined index:  in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 376
+[23-Feb-2018 15:44:27 UTC] PHP Notice:  Undefined index:  in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 376
+[23-Feb-2018 15:44:27 UTC] PHP Notice:  Undefined index:  in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 376
+[23-Feb-2018 15:44:27 UTC] PHP Notice:  Undefined index:  in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 376
+[23-Feb-2018 15:44:29 UTC] PHP Notice:  Undefined index:  in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 376
+[23-Feb-2018 15:44:29 UTC] PHP Notice:  Undefined index:  in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 376
+[23-Feb-2018 15:44:29 UTC] PHP Notice:  Undefined index:  in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 376
+[23-Feb-2018 15:44:29 UTC] PHP Notice:  Undefined index:  in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 376
+[23-Feb-2018 15:44:29 UTC] PHP Notice:  Undefined index:  in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 376
+[23-Feb-2018 15:44:29 UTC] PHP Notice:  Undefined index:  in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 376
+[23-Feb-2018 15:44:29 UTC] PHP Notice:  Undefined index:  in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 376
+[23-Feb-2018 15:44:29 UTC] PHP Notice:  Undefined index:  in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 376
+[23-Feb-2018 15:44:29 UTC] PHP Notice:  Undefined index:  in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 376
+[23-Feb-2018 15:44:29 UTC] PHP Notice:  Undefined index:  in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 376
+[23-Feb-2018 15:44:29 UTC] PHP Notice:  Undefined index:  in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 376
+[23-Feb-2018 15:44:29 UTC] PHP Notice:  Undefined index:  in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 376
+[23-Feb-2018 15:51:37 UTC] PHP Notice:  Undefined index: first_name in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 378
+[23-Feb-2018 15:51:37 UTC] PHP Notice:  Undefined index: first_name in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 378
+[23-Feb-2018 15:51:37 UTC] PHP Notice:  Undefined index: first_name in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 378
+[23-Feb-2018 15:51:37 UTC] PHP Notice:  Undefined index: first_name in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 378
+[23-Feb-2018 15:51:37 UTC] PHP Notice:  Undefined index: first_name in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 378
+[23-Feb-2018 15:51:37 UTC] PHP Notice:  Undefined index: first_name in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 378
+[23-Feb-2018 15:51:37 UTC] PHP Notice:  Undefined index: first_name in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 378
+[23-Feb-2018 15:51:37 UTC] PHP Notice:  Undefined index: first_name in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 378
+[23-Feb-2018 15:51:37 UTC] PHP Notice:  Undefined index: first_name in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 378
+[23-Feb-2018 15:51:37 UTC] PHP Notice:  Undefined index: first_name in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 378
+[23-Feb-2018 15:51:37 UTC] PHP Notice:  Undefined index: first_name in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 378
+[23-Feb-2018 15:51:37 UTC] PHP Notice:  Undefined index: first_name in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 378
+[24-Feb-2018 09:49:08 UTC] PHP Notice:  Undefined index:  in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 389
+[24-Feb-2018 09:49:08 UTC] PHP Notice:  Undefined index:  in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 389
+[24-Feb-2018 09:49:08 UTC] PHP Notice:  Undefined index:  in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 389
+[24-Feb-2018 09:49:08 UTC] PHP Notice:  Undefined index:  in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 389
+[24-Feb-2018 09:49:08 UTC] PHP Notice:  Undefined index:  in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 389
+[24-Feb-2018 09:49:08 UTC] PHP Notice:  Undefined index:  in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 389
+[24-Feb-2018 09:49:08 UTC] PHP Notice:  Undefined index:  in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 389
+[24-Feb-2018 09:49:08 UTC] PHP Notice:  Undefined index:  in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 389
+[24-Feb-2018 09:49:08 UTC] PHP Notice:  Undefined index:  in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 389
+[24-Feb-2018 09:49:08 UTC] PHP Notice:  Undefined index:  in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 389
+[24-Feb-2018 09:49:08 UTC] PHP Notice:  Undefined index:  in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 389
+[24-Feb-2018 09:49:08 UTC] PHP Notice:  Undefined index:  in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 389
+[24-Feb-2018 09:49:39 UTC] PHP Notice:  Undefined index:  in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 389
+[24-Feb-2018 09:49:39 UTC] PHP Notice:  Undefined index:  in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 389
+[24-Feb-2018 09:49:39 UTC] PHP Notice:  Undefined index:  in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 389
+[24-Feb-2018 09:49:39 UTC] PHP Notice:  Undefined index:  in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 389
+[24-Feb-2018 09:49:39 UTC] PHP Notice:  Undefined index:  in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 389
+[24-Feb-2018 09:49:39 UTC] PHP Notice:  Undefined index:  in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 389
+[24-Feb-2018 09:49:39 UTC] PHP Notice:  Undefined index:  in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 389
+[24-Feb-2018 09:49:39 UTC] PHP Notice:  Undefined index:  in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 389
+[24-Feb-2018 09:49:39 UTC] PHP Notice:  Undefined index:  in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 389
+[24-Feb-2018 09:49:39 UTC] PHP Notice:  Undefined index:  in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 389
+[24-Feb-2018 09:49:39 UTC] PHP Notice:  Undefined index:  in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 389
+[24-Feb-2018 09:49:39 UTC] PHP Notice:  Undefined index:  in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 389
+[24-Feb-2018 09:56:02 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 389
+[24-Feb-2018 09:56:04 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 389
+[24-Feb-2018 09:56:07 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 389
+[24-Feb-2018 11:04:42 UTC] PHP Notice:  Undefined variable: eventId in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 588
+[24-Feb-2018 13:04:57 UTC] PHP Notice:  Undefined index: fileToUpload in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 784
+[24-Feb-2018 13:21:00 UTC] PHP Notice:  Undefined index: fileToUpload in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 784
+[24-Feb-2018 13:21:43 UTC] PHP Notice:  Undefined index: fileToUpload in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 784
+[24-Feb-2018 13:22:13 UTC] PHP Notice:  Undefined index: files in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 784
+[24-Feb-2018 13:25:02 UTC] PHP Notice:  Undefined index: file in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 784
+[24-Feb-2018 13:25:22 UTC] PHP Notice:  Undefined index: files in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 784
+[24-Feb-2018 13:25:58 UTC] PHP Notice:  Undefined index: files in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 784
+[24-Feb-2018 13:29:23 UTC] PHP Notice:  Undefined index: files in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 784
+[24-Feb-2018 13:29:39 UTC] PHP Notice:  Undefined index: files in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 784
+[27-Feb-2018 12:12:20 UTC] PHP Notice:  Undefined index: function in /home/ultimate/public_html/larkyo/api2/v1/Rest.inc.php on line 123
+[27-Feb-2018 12:12:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ultimate/public_html/larkyo/api2/v1/Rest.inc.php:123) in /home/ultimate/public_html/larkyo/api2/v1/Rest.inc.php on line 118
+[27-Feb-2018 12:12:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ultimate/public_html/larkyo/api2/v1/Rest.inc.php:123) in /home/ultimate/public_html/larkyo/api2/v1/Rest.inc.php on line 119
+[27-Feb-2018 12:13:12 UTC] PHP Notice:  Undefined index: function in /home/ultimate/public_html/larkyo/api2/v1/Rest.inc.php on line 123
+[27-Feb-2018 12:13:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ultimate/public_html/larkyo/api2/v1/Rest.inc.php:123) in /home/ultimate/public_html/larkyo/api2/v1/Rest.inc.php on line 118
+[27-Feb-2018 12:13:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ultimate/public_html/larkyo/api2/v1/Rest.inc.php:123) in /home/ultimate/public_html/larkyo/api2/v1/Rest.inc.php on line 119
+[27-Feb-2018 12:14:06 UTC] PHP Notice:  Undefined index: function in /home/ultimate/public_html/larkyo/api2/v1/Rest.inc.php on line 123
+[27-Feb-2018 12:14:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ultimate/public_html/larkyo/api2/v1/Rest.inc.php:123) in /home/ultimate/public_html/larkyo/api2/v1/Rest.inc.php on line 118
+[27-Feb-2018 12:14:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ultimate/public_html/larkyo/api2/v1/Rest.inc.php:123) in /home/ultimate/public_html/larkyo/api2/v1/Rest.inc.php on line 119
+[27-Feb-2018 12:33:39 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 150
+[27-Feb-2018 12:36:12 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 152
+[27-Feb-2018 12:36:46 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 152
+[27-Feb-2018 12:38:25 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 151
+[27-Feb-2018 12:42:29 UTC] PHP Notice:  Undefined index: image in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 145
+[27-Feb-2018 12:42:29 UTC] PHP Notice:  Undefined index: image in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 147
+[27-Feb-2018 12:44:28 UTC] PHP Notice:  Undefined index: name in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 145
+[27-Feb-2018 12:44:28 UTC] PHP Notice:  Undefined index: tmp_name in /home/ultimate/public_html/larkyo/api2/v1/api.php on line 147
